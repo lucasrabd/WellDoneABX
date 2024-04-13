@@ -1,3 +1,30 @@
-Atributos da tabela:
+# Tabelas que serão utilizadas para a análise proposta:
 
-scorePontualidade: Valor de 0-1 que baseia a pontualidade do pagamento da empresa.
+numero_solicitacao: Número da solicitação de crédito.
+razaoSocial: Razão Social Anonimizada do cliente.
+nomeFantasia: Nome Fantasia Anonimizado do cliente.
+cnpjSemTraco: CNPJ Anonimizado do cliente.
+maiorAtraso: Maior atraso de pagamento em dias.
+margemBrutaAcumulada: Margem bruta acumulada do cliente.
+percentualProtestos: Percentual de protestos do cliente.
+primeiraCompra: Data da primeira compra realizada pelo cliente.
+prazoMedioRecebimentoVendas: Prazo médio de recebimento de vendas do cliente.
+titulosEmAberto: Valor total de títulos em aberto do cliente.
+valorSolicitado: Valor de crédito solicitado pelo cliente.
+status: Status da solicitação de crédito.
+AprovadoAnalista: Indicador se a solicitação foi aprovada por um analista.
+AprovadoComite: Indicador se a solicitação foi aprovada por um comitê.
+AguardandoAprovacao: Indicador se a solicitação está aguardando aprovação.
+DocumentacaoReprovada: Indicador se a documentação foi reprovada.
+EmAnaliseDocumentacao: Indicador se a documentação está em análise.
+ReprovadoAnalista: Indicador se a solicitação foi reprovada por um analista.
+ReprovadoComite: Indicador se a solicitação foi reprovada por um comitê.
+definicaoRisco: Categorização de risco do cliente.
+percentualRisco: Percentual de risco atribuído ao cliente.
+diferencaPercentualRisco: Diferença percentual de risco (1 - percentualRisco).
+dashboardCorrelacao: Correlação interna de risco.
+valorAprovado: Valor aprovado pela análise de crédito.
+dataAprovadoEmNivelAnalista: Data de aprovação pela análise de crédito em nível analista.
+dataAprovadoEmComite: Data de aprovação pela análise de crédito em comitê.
+periodoBalanco: Período do balanço informado na documentação do cliente.
+ativoCirculante: Valor do ativo circulante informado na documentação do cliente.
