@@ -1,24 +1,10 @@
-# 551942 Bruno Ramos da Costa
-
-# 551374 Guilherme Faria de Aguiar
-
-# 99161 Henrique Roncon Pereira
-
-# 550519 Lucas Carabolad Bob
-
-# 97951 Thiago Ulrych
-
-
-
 # WellDoneABX
+
+## Introdução
 
 A ABX Tecnologia, empresa de importação e revenda de produtos, enfrenta o desafio de gerenciar prazos de pagamento estendidos e garantir a saúde financeira. A análise de crédito atual, sem padronização entre micro e grandes negócios, gera inconsistências e riscos. Para auxiliar a ABX, propomos uma estratégia de análise de crédito segmentada, otimizando a tomada de decisões e a lucratividade.
 
 ## Estratégia de Análise de Crédito Segmentada
-
-### Introdução
-
-A ABX Tecnologia, uma empresa que se destaca no ramo de importação e revenda de produtos, enfrenta um desafio crucial: gerenciar sua saúde financeira por meio de uma análise de crédito eficaz. Nesse sentido, propomos uma estratégia de análise de crédito segmentada, projetada para otimizar as decisões financeiras da ABX e, consequentemente, maximizar sua lucratividade.
 
 ### Desafios na Análise de Crédito
 
@@ -78,6 +64,6 @@ A análise de crédito da ABX Tecnologia apresenta alguns desafios, como a falta
 
     Oferecer condições de crédito adequadas às necessidades de cada cliente fortalecerá os relacionamentos comerciais.
 
-### Conclusão
+## Conclusão
 
 A implementação da estratégia de análise de crédito segmentada trará inúmeros benefícios para a ABX Tecnologia, incluindo a redução de riscos financeiros, o aumento da lucratividade e o fortalecimento dos relacionamentos comerciais. Ao adotar uma abordagem mais personalizada e abrangente para a análise de crédito, a ABX estará mais bem preparada para enfrentar os desafios do mercado e aproveitar as oportunidades de crescimento futuro.
