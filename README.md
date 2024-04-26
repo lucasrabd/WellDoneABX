@@ -1,6 +1,17 @@
-# WellDoneABX
+# Inovação Conjunta: Welldone e ABX Tecnologia Elevam o Padrão 🚀
 
-## Introdução
+# Equipe 👨‍🔬
+
+- Bruno Ramos da Costa(RM551942)
+- Guilherme Faria de Aguiar(RM551374)
+- Henrique Roncon Pereira (RM99161)
+- Lucas Carabolad Bob (RM550519)
+- Thiago Ulrych (RM97951)
+
+
+
+
+## Introdução 
 
 A ABX Tecnologia, empresa de importação e revenda de produtos, enfrenta o desafio de gerenciar prazos de pagamento estendidos e garantir a saúde financeira. A análise de crédito atual, sem padronização entre micro e grandes negócios, gera inconsistências e riscos. Para auxiliar a ABX, propomos uma estratégia de análise de crédito segmentada, otimizando a tomada de decisões e a lucratividade.
 
@@ -12,58 +23,37 @@ A análise de crédito da ABX Tecnologia apresenta alguns desafios, como a falta
 
 ### Proposta de Estratégia
 
-1. **Segmentação de Clientes:**
+1. 📕Análise de Pontualidade e Risco: 
    
-    Sugere-se dividir os clientes da ABX Tecnologia em grupos distintos, levando em consideração critérios financeiros, operacionais e de risco. Isso permitirá uma abordagem mais personalizada para cada tipo de cliente.
+    Utilizamos modelos estatísticos para classificar a pontualidade de pagamento e o risco de cada cliente, levando em conta indicadores como score de pontualidade, percentual de risco e histórico de atrasos.
 
-2. **Análise de Crédito Segmentada:**
+2. 📗Segmentação de Clientes: 
 
-    A análise de crédito será mais detalhada, considerando indicadores financeiros específicos para cada segmento de cliente. Isso proporcionará uma compreensão mais precisa da situação financeira de cada cliente.
+    Com base na classificação de pontualidade e risco, os clientes são segmentados em grupos distintos, facilitando uma abordagem mais personalizada na análise de crédito.
 
-3. **Utilização de Indicadores Financeiros:**
+3. 📘Avaliação de Dados: 
 
-    Além do score de pontualidade, serão considerados outros indicadores financeiros, como faturamento bruto, endividamento e margem bruta. Esses indicadores oferecem uma visão abrangente da situação financeira de cada cliente.
+   Os dados financeiros e operacionais de cada cliente são analisados em detalhes para compreender sua situação financeira e capacidade de pagamento.
 
-4. **Tomada de Decisão Multifatorial:**
+4. 📙Modelagem Preditiva: 
 
-    A decisão de concessão de crédito será baseada em uma análise multifatorial, considerando não apenas o score de pontualidade, mas todos os indicadores financeiros relevantes.
+    Utilizamos algoritmos de aprendizado de máquina, como Regressão Logística, para prever o grupo de crédito de novos clientes com base em suas características financeiras.
 
-### Implementação da Estratégia
+# Implementação e Resultados
 
-1. **Coleta e Organização de Dados:**
+1. 📔Implementação do Modelo:
 
-    Serão coletados e organizados dados relevantes para a análise, incluindo informações financeiras e operacionais de cada cliente.
+    Um modelo de Regressão Logística foi treinado com dados históricos para prever os grupos de crédito dos clientes.
 
-2. **Desenvolvimento de Modelos Analíticos:**
+2. 📒Avaliação da Precisão:
 
-    Serão desenvolvidos modelos analíticos específicos para cada segmento de cliente, utilizando técnicas estatísticas e de aprendizado de máquina.
+    A precisão do modelo foi avaliada utilizando métricas de desempenho, como a acurácia, garantindo sua eficácia na classificação dos clientes.
 
-3. **Análise e Interpretação de Resultados:**
+3.  🧑‍💻Previsão de Novos Clientes:
 
-    Os resultados obtidos serão analisados em detalhes, fornecendo insights valiosos para a tomada de decisões.
+    O modelo desenvolvido pode ser utilizado para prever o grupo de crédito de novos clientes com base em suas características financeiras.
 
-4. **Ajuste e Aprimoramento Contínuo:**
 
-    O processo será ajustado e aprimorado continuamente com base nos resultados e feedbacks recebidos.
+## Conclusão 💻
 
-### Benefícios da Estratégia
-
-1. **Redução de Riscos Financeiros:**
-
-    A análise segmentada permitirá uma identificação mais precisa de clientes com alto risco de inadimplência.
-
-2. **Aumento da Lucratividade:**
-
-    A concessão de crédito de forma mais assertiva e direcionada poderá maximizar a rentabilidade das operações.
-
-3. **Otimização dos Processos:**
-
-    A padronização e automatização dos processos de análise de crédito permitirão uma redução significativa no tempo e nos recursos necessários.
-
-4. **Fortalecimento do Relacionamento com Clientes:**
-
-    Oferecer condições de crédito adequadas às necessidades de cada cliente fortalecerá os relacionamentos comerciais.
-
-## Conclusão
-
-A implementação da estratégia de análise de crédito segmentada trará inúmeros benefícios para a ABX Tecnologia, incluindo a redução de riscos financeiros, o aumento da lucratividade e o fortalecimento dos relacionamentos comerciais. Ao adotar uma abordagem mais personalizada e abrangente para a análise de crédito, a ABX estará mais bem preparada para enfrentar os desafios do mercado e aproveitar as oportunidades de crescimento futuro.
+A estratégia de análise de crédito segmentada proporciona uma abordagem mais precisa e eficiente na concessão de crédito, permitindo à ABX Tecnologia reduzir riscos financeiros, aumentar a lucratividade e fortalecer os relacionamentos com os clientes.
