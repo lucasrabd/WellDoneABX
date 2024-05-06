@@ -57,3 +57,7 @@ A análise de crédito da ABX Tecnologia apresenta alguns desafios, como a falta
 ## Conclusão 💻
 
 A estratégia de análise de crédito segmentada proporciona uma abordagem mais precisa e eficiente na concessão de crédito, permitindo à ABX Tecnologia reduzir riscos financeiros, aumentar a lucratividade e fortalecer os relacionamentos com os clientes.
+
+## Calendário
+![image](https://github.com/lucasrabd/WellDoneABX/assets/115592213/8a33e6c9-4adc-4c57-b93d-2b68798738db)
+
